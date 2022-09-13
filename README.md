@@ -1,0 +1,1 @@
+Bank mockup exercise with the sole purpose of getting familiarized with general programming and OOP concepts.
